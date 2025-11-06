@@ -1,0 +1,61 @@
+# Core Python Libraries
+numpy
+pandas
+scipy
+
+# Data Visualization
+matplotlib
+seaborn
+plotly
+scikit-learn
+
+# Jupyter Notebook support
+jupyterlab
+notebook
+ipykernel
+
+# Deep Learning with PyTorch
+torch
+torchvision
+torchaudio
+torchmetrics
+lightning  # PyTorch Lightning for cleaner model training
+
+# Model Development & Evaluation
+scikit-learn
+optuna           # hyperparameter tuning
+tqdm             # progress bars
+tensorboard      # optional logging
+mlflow           # model tracking (optional but useful)
+xgboost
+catboost
+lightgbm
+flask
+
+# Quantitative Research & Trading
+# statsmodels
+# quantlib
+# cvxpy            # convex optimization (for portfolio theory, etc.)
+yfinance         # historical stock data
+# pandas-datareader
+# TA-Lib           # technical indicators (if using, might require manual install)
+
+# empyrical        # used by pyfolio
+# pymc             # Bayesian modeling (PyMC v5+ is best)
+# arch             # volatility modeling (ARCH/GARCH models)
+# ffn              # financial function library (wrapper around Pandas)
+# alphalens        # factor analysis (used with quant research)
+# bt               # backtesting library
+# pyfolio          # performance analytics
+# qstrader         # backtesting framework
+
+# Optional Extras
+# openpyxl         # Excel integration
+# beautifulsoup4   # web scraping
+# requests         # HTTP requests (for API calls)
+
+# Dev & Utilities
+black
+isort
+flake8
+pytest
