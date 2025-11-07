@@ -33,7 +33,7 @@ lightgbm
 flask
 
 # Quantitative Research & Trading
-# statsmodels
+statsmodels
 # quantlib
 # cvxpy            # convex optimization (for portfolio theory, etc.)
 yfinance         # historical stock data
